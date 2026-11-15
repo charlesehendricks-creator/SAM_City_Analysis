@@ -1,0 +1,251 @@
+State_City,Population,Budget,Gender,Begin_Term,End_Term,Govern_Type,foo1,foo2,City,State,Mayor_Name,Birth_Year,Party,Region,Budget_per_Capita,Bloc,City_Size,Budget_Size
+"New York, New York",8584629,115900000000,M,2026,2030,Strong mayor,No,No,New York,New York,Zohran Mamdani,1991,D,Northeast,13500.87,Democratic caucus,Major,Major
+"Los Angeles, California",3869089,12800000000,F,2022,2026,Strong mayor,Yes,Yes,Los Angeles,California,Karen Bass,1953,D,West,3308.27,Democratic caucus,Major,Major
+"Chicago, Illinois",2731585,17300000000,M,2023,2027,Strong mayor,Yes,No,Chicago,Illinois,Brandon Johnson,1976,D,Midwest,6333.32,Democratic caucus,Major,Major
+"Houston, Texas",2397315,6700000000,M,2024,2028,Strong mayor,No,No,Houston,Texas,John Whitmire,1949,D,South,2794.79,Democratic caucus,Major,Major
+"Philadelphia, Pennsylvania",1574281,6400000000,F,2024,2028,Strong mayor,Yes,Yes,Philadelphia,Pennsylvania,Cherelle Parker,1972,D,Northeast,4065.35,Democratic caucus,Major,Major
+"Phoenix, Arizona",1665481,5600000000,F,2019,2023,Council-manager,No,Yes,Phoenix,Arizona,Kate Gallego,1981,D,West,3362.39,Democratic caucus,Major,Major
+"San Antonio, Texas",1548422,8857590000,F,2025,2029,Council-manager,Yes,Yes,San Antonio,Texas,Gina Ortiz Jones,1981,D,South,5720.4,Democratic caucus,Major,Major
+"San Diego, California",1406106,6837570000,M,2020,2024,Strong mayor,Yes,No,San Diego,California,Todd Gloria,1978,D,West,4862.77,Democratic caucus,Major,Major
+"Dallas, Texas",1329491,5666940000,M,2019,2023,Council-manager,No,Yes,Dallas,Texas,Eric Johnson,1975,R,South,4262.49,Republican,Major,Major
+"San Jose, California",989814,4905830000,M,2023,2027,Council-manager,No,Yes,San Jose,California,Matt Mahan,1982,D,West,4956.32,Democratic caucus,Large,Large
+"Honolulu, Hawaii",341868,1516800000,M,2021,2025,Strong mayor,No,Yes,Honolulu,Hawaii,Rick Blangiardi,1946,I,West,4436.8,Democratic caucus,Medium,Medium
+"Austin, Texas",1002632,4473620000,M,2023,2027,Strong mayor,Yes,Yes,Austin,Texas,Kirk Watson,1958,D,South,4461.88,Democratic caucus,Major,Large
+"Indianapolis, Indiana",901116,3502750000,M,2016,2020,Strong mayor,Yes,No,Indianapolis,Indiana,Joe Hogsett,1956,D,Midwest,3887.12,Democratic caucus,Large,Large
+"Jacksonville, Florida",1017689,5075580000,F,2023,2027,Strong mayor,Yes,No,Jacksonville,Florida,Donna Deegan,1961,D,South,4987.36,Democratic caucus,Major,Major
+"San Francisco, California",826079,4213720000,M,2025,2029,Strong mayor,Yes,Yes,San Francisco,California,Daniel Lurie,1977,D,West,5100.87,Democratic caucus,Large,Large
+"Columbus, Ohio",938396,5194970000,M,2016,2020,Strong mayor,Yes,Yes,Columbus,Ohio,Andrew Ginther,1975,D,Midwest,5536.01,Democratic caucus,Large,Major
+"Charlotte, North Carolina",964784,4832710000,M,2026,2030,Council-manager,No,Yes,Charlotte,North Carolina,Rob Harrington,,D,South,5009.11,Democratic caucus,Large,Large
+"Fort Worth, Texas",1028117,5317080000,F,2021,2025,Council-manager,No,No,Fort Worth,Texas,Mattie Parker,1983,R,South,5171.67,Republican,Major,Major
+"Detroit, Michigan",649095,3310050000,F,2026,2030,Strong mayor,No,Yes,Detroit,Michigan,Mary Sheffield,,D,Midwest,5099.48,Democratic caucus,Large,Large
+"El Paso, Texas",683012,3275900000,M,2025,2029,Council-manager,No,Yes,El Paso,Texas,Renard Johnson,,D,South,4796.26,Democratic caucus,Large,Large
+"Memphis, Tennessee",609647,2734900000,M,2024,2028,Strong mayor,Yes,No,Memphis,Tennessee,Paul Young,,D,South,4486.04,Democratic caucus,Large,Large
+"Seattle, Washington",784777,3057360000,F,2026,2030,Strong mayor,Yes,No,Seattle,Washington,Katie Wilson,,D,West,3895.83,Democratic caucus,Large,Large
+"Denver, Colorado",740613,3367230000,M,2023,2027,Strong mayor,Yes,Yes,Denver,Colorado,Mike Johnston,1974,D,West,4546.54,Democratic caucus,Large,Large
+"Boston, Massachusetts",672973,3355750000,F,2021,2025,Strong mayor,Yes,No,Boston,Massachusetts,Michelle Wu,,D,Northeast,4986.46,Democratic caucus,Large,Large
+"Nashville, Tennessee",721074,3158780000,M,2023,2027,Strong mayor,Yes,No,Nashville,Tennessee,Freddie O'Connell,,D,South,4380.66,Democratic caucus,Large,Large
+"Baltimore, Maryland",569997,2847340000,M,2020,2024,Strong mayor,Yes,Yes,Baltimore,Maryland,Brandon Scott,,D,South,4995.36,Democratic caucus,Large,Large
+"Oklahoma City, Oklahoma",719849,2866850000,M,2018,2022,Council-manager,Yes,Yes,Oklahoma City,Oklahoma,David Holt,,R,South,3982.57,Republican,Large,Large
+"Louisville, Kentucky",641962,2394710000,M,2023,2027,Strong mayor,No,No,Louisville,Kentucky,Craig Greenberg,1973,D,South,3730.3,Democratic caucus,Large,Large
+"Portland, Oregon",635109,2418370000,M,2025,2029,Commission,Yes,No,Portland,Oregon,Keith Wilson,,D,West,3807.8,Democratic caucus,Large,Large
+"Las Vegas, Nevada",679817,3350400000,F,2024,2028,Council-manager,Yes,Yes,Las Vegas,Nevada,Shelley Berkley,,D,West,4928.39,Democratic caucus,Large,Large
+"Milwaukee, Wisconsin",562407,2342130000,M,2021,2025,Strong mayor,Yes,No,Milwaukee,Wisconsin,Cavalier Johnson,,D,Midwest,4164.48,Democratic caucus,Large,Large
+"Albuquerque, New Mexico",556588,2328710000,M,2017,2021,Strong mayor,Yes,No,Albuquerque,New Mexico,Tim Keller,,D,West,4183.9,Democratic caucus,Large,Large
+"Tucson, Arizona",548371,2155120000,F,2019,2023,Council-manager,Yes,No,Tucson,Arizona,Regina Romero,,D,West,3930.04,Democratic caucus,Large,Large
+"Fresno, California",555549,2122850000,M,2021,2025,Hybrid,No,No,Fresno,California,Jerry Dyer,,R,West,3821.18,Republican,Large,Large
+"Sacramento, California",536449,2597150000,M,2024,2028,Council-manager,No,No,Sacramento,California,Kevin McCarty,,D,West,4841.37,Democratic caucus,Large,Large
+"Long Beach, California",450469,1915010000,M,2022,2026,Council-manager,No,No,Long Beach,California,Rex Richardson,,D,West,4251.15,Democratic caucus,Medium,Medium
+"Kansas City, Missouri",521220,1945650000,M,2019,2023,Council-manager,Yes,Yes,Kansas City,Missouri,Quinton Lucas,,D,Midwest,3732.88,Democratic caucus,Large,Medium
+"Mesa, Arizona",513656,1737650000,M,2025,2029,Council-manager,No,Yes,Mesa,Arizona,Mark Freeman,,R,West,3382.91,Republican,Large,Medium
+"Virginia Beach, Virginia",453737,1703340000,M,2018,2022,Council-manager,Yes,Yes,Virginia Beach,Virginia,Bobby Dyer,,R,South,3754.02,Republican,Medium,Medium
+"Atlanta, Georgia",529110,2666880000,M,2022,2026,Strong mayor,Yes,Yes,Atlanta,Georgia,Andre Dickens,,D,South,5040.31,Democratic caucus,Large,Large
+"Colorado Springs, Colorado",494743,1809790000,M,2023,2027,Strong mayor,Yes,Yes,Colorado Springs,Colorado,Yemi Mobolade,,I,West,3658.04,Democratic caucus,Medium,Medium
+"Omaha, Nebraska",488797,1841660000,M,2025,2029,Strong mayor,No,No,Omaha,Nebraska,John Ewing,,D,Midwest,3767.74,Democratic caucus,Medium,Medium
+"Raleigh, North Carolina",506306,2244650000,F,2024,2028,Council-manager,No,Yes,Raleigh,North Carolina,Janet Cowell,,D,South,4433.39,Democratic caucus,Large,Large
+"Miami, Florida",489812,2228940000,F,2025,2029,Hybrid,No,No,Miami,Florida,Eileen Higgins,,D,South,4550.6,Democratic caucus,Medium,Large
+"Oakland, California",440838,1642310000,F,2025,2029,Hybrid,Yes,Yes,Oakland,California,Barbara Lee,,D,West,3725.43,Democratic caucus,Medium,Medium
+"Minneapolis, Minnesota",430324,1605620000,M,2018,2022,Strong mayor,Yes,No,Minneapolis,Minnesota,Jacob Frey,,D,Midwest,3731.19,Democratic caucus,Medium,Medium
+"Tulsa, Oklahoma",416209,1757100000,M,2024,2028,Strong mayor,No,No,Tulsa,Oklahoma,Monroe Nichols,,D,South,4221.68,Democratic caucus,Medium,Medium
+"Cleveland, Ohio",363608,1199580000,M,2022,2026,Strong mayor,No,Yes,Cleveland,Ohio,Justin Bibb,,D,Midwest,3299.1,Democratic caucus,Medium,Medium
+"Wichita, Kansas",400987,1804010000,F,2023,2027,Council-manager,Yes,Yes,Wichita,Kansas,Lily Wu,,NP,Midwest,4498.92,Democratic caucus,Medium,Medium
+"Arlington, Texas",402134,1658370000,M,2021,2025,Council-manager,Yes,No,Arlington,Texas,Jim Ross,,NP,South,4123.92,Democratic caucus,Medium,Medium
+"New Orleans, Louisiana",362154,1457640000,F,2026,2030,Strong mayor,Yes,Yes,New Orleans,Louisiana,Helena Moreno,,D,South,4024.92,Democratic caucus,Medium,Medium
+"Bakersfield, California",422165,1725120000,F,2017,2021,Council-manager,Yes,Yes,Bakersfield,California,Karen Goh,,R,West,4086.36,Republican,Medium,Medium
+"Tampa, Florida",413554,1755730000,F,2019,2023,Strong mayor,No,Yes,Tampa,Florida,Jane Castor,,D,South,4245.47,Democratic caucus,Medium,Medium
+"Aurora, Colorado",410053,1852900000,M,2019,2023,Council-manager,No,Yes,Aurora,Colorado,Mike Coffman,,R,West,4518.68,Republican,Medium,Medium
+"Anaheim, California",341008,1321400000,F,2022,2026,Council-manager,No,Yes,Anaheim,California,Ashleigh Aitken,,D,West,3874.98,Democratic caucus,Medium,Medium
+"Santa Ana, California",315586,1182980000,F,2022,2026,Council-manager,Yes,Yes,Santa Ana,California,Valerie Amezcua,,NP,West,3748.52,Democratic caucus,Medium,Medium
+"St. Louis, Missouri",278144,945750000,F,2025,2029,Strong mayor,No,No,St. Louis,Missouri,Cara Spencer,,D,Midwest,3400.22,Democratic caucus,Medium,Small
+"Riverside, California",323057,1381070000,F,2020,2024,Council-manager,No,Yes,Riverside,California,Patricia Lock Dawson,,NP,West,4275.0,Democratic caucus,Medium,Medium
+"Corpus Christi, Texas",317247,1421390000,F,2021,2025,Council-manager,Yes,Yes,Corpus Christi,Texas,Paulette Guajardo,,NP,South,4480.39,Democratic caucus,Medium,Medium
+"Lexington, Kentucky",329751,1161370000,F,2019,2023,Strong mayor,Yes,No,Lexington,Kentucky,Linda Gorton,,R,South,3521.96,Republican,Medium,Medium
+"Pittsburgh, Pennsylvania",307632,1088190000,M,2025,2029,Strong mayor,No,No,Pittsburgh,Pennsylvania,Corey O'Connor,,D,Northeast,3537.31,Democratic caucus,Medium,Medium
+"Anchorage, Alaska",287155,1115290000,F,2023,2027,Hybrid,Yes,No,Anchorage,Alaska,Suzanne LaFrance,,NP,West,3883.93,Democratic caucus,Medium,Medium
+"Stockton, California",324597,1332920000,F,2025,2029,Council-manager,No,No,Stockton,California,Christina Fugazi,,NP,West,4106.38,Democratic caucus,Medium,Medium
+"Cincinnati, Ohio",314367,1049970000,M,2022,2026,Hybrid,No,No,Cincinnati,Ohio,Aftab Pureval,,D,Midwest,3339.95,Democratic caucus,Medium,Medium
+"St. Paul, Minnesota",306684,1413250000,F,2026,2030,Strong mayor,No,No,St. Paul,Minnesota,Kaohly Her,,D,Midwest,4608.16,Democratic caucus,Medium,Medium
+"Toledo, Ohio",263423,994070000,M,2018,2022,Strong mayor,No,No,Toledo,Ohio,Wade Kapszukiewicz,,D,Midwest,3773.66,Democratic caucus,Medium,Small
+"Greensboro, North Carolina",308667,1170950000,F,2025,2029,Council-manager,No,No,Greensboro,North Carolina,Marikay Abuzuaiter,,D,South,3793.57,Democratic caucus,Medium,Medium
+"Newark, New Jersey",323808,1045210000,M,2014,2018,Strong mayor,No,No,Newark,New Jersey,Ras Baraka,,D,Northeast,3227.87,Democratic caucus,Medium,Medium
+"Plano, Texas",293028,984400000,M,2021,2025,Council-manager,Yes,No,Plano,Texas,John Muns,,NP,South,3359.41,Democratic caucus,Medium,Small
+"Henderson, Nevada",353289,1552340000,F,2025,2029,Council-manager,Yes,No,Henderson,Nevada,Michelle Romero,,R,West,4393.97,Republican,Medium,Medium
+"Lincoln, Nebraska",301522,1109270000,F,2019,2023,Strong mayor,Yes,Yes,Lincoln,Nebraska,Leirion Gaylor Baird,,D,Midwest,3678.9,Democratic caucus,Medium,Medium
+"Buffalo, New York",274613,1230670000,M,2026,2030,Strong mayor,No,Yes,Buffalo,New York,Sean Ryan,,D,Northeast,4481.47,Democratic caucus,Medium,Medium
+"Jersey City, New Jersey",302013,1003850000,M,2025,2029,Strong mayor,No,No,Jersey City,New Jersey,James Solomon,,D,Northeast,3323.86,Democratic caucus,Medium,Medium
+"Chula Vista, California",275533,1262920000,M,2024,2028,Council-manager,No,Yes,Chula Vista,California,John McCann,,NP,West,4583.55,Democratic caucus,Medium,Medium
+"Fort Wayne, Indiana",275203,1075280000,F,2024,2028,Strong mayor,Yes,No,Fort Wayne,Indiana,Sharon Tucker,,D,Midwest,3907.22,Democratic caucus,Medium,Medium
+"Orlando, Florida",333888,1134290000,M,2003,2007,Strong mayor,Yes,Yes,Orlando,Florida,Buddy Dyer,,D,South,3397.22,Democratic caucus,Medium,Medium
+"St. Petersburg, Florida",264033,1205940000,M,2022,2026,Strong mayor,No,No,St. Petersburg,Florida,Ken Welch,,D,South,4567.38,Democratic caucus,Medium,Medium
+"Chandler, Arizona",278748,1188950000,M,2026,2030,Council-manager,No,No,Chandler,Arizona,Matt Orlando,,D,West,4265.32,Democratic caucus,Medium,Medium
+"Laredo, Texas",269515,1202660000,M,2022,2026,Council-manager,Yes,No,Laredo,Texas,Victor Trevino,,NP,South,4462.31,Democratic caucus,Medium,Medium
+"Norfolk, Virginia",231013,793470000,M,2016,2020,Council-manager,No,No,Norfolk,Virginia,Kenny Alexander,,D,South,3434.74,Democratic caucus,Small,Small
+"Durham, North Carolina",305561,985510000,M,2023,2027,Council-manager,No,Yes,Durham,North Carolina,Leonardo Williams,,D,South,3225.25,Democratic caucus,Medium,Small
+"Madison, Wisconsin",286233,1109760000,F,2019,2023,Strong mayor,Yes,Yes,Madison,Wisconsin,Satya Rhodes-Conway,,D,Midwest,3877.12,Democratic caucus,Medium,Medium
+"Lubbock, Texas",273071,996660000,M,2024,2028,Council-manager,Yes,Yes,Lubbock,Texas,Mark McBrayer,,R,South,3649.82,Republican,Medium,Small
+"Irvine, California",318764,1122310000,M,2024,2028,Council-manager,No,No,Irvine,California,Larry Agran,,D,West,3520.82,Democratic caucus,Medium,Medium
+"Winston-Salem, North Carolina",257271,853290000,M,2001,2005,Council-manager,Yes,No,Winston-Salem,North Carolina,Allen Joines,,D,South,3316.7,Democratic caucus,Medium,Small
+"Glendale, Arizona",260572,1132900000,M,2013,2017,Council-manager,Yes,No,Glendale,Arizona,Jerry Weiers,,NP,West,4347.74,Democratic caucus,Medium,Medium
+"Garland, Texas",249625,1014160000,M,2024,2028,Council-manager,Yes,No,Garland,Texas,Dylan Hedrick,,NP,South,4062.73,Democratic caucus,Small,Medium
+"Hialeah, Florida",230968,931910000,M,2023,2027,Strong mayor,No,Yes,Hialeah,Florida,Bryan Calvo,,NP,South,4034.8,Democratic caucus,Small,Small
+"Reno, Nevada",283621,982250000,F,2014,2018,Council-manager,No,Yes,Reno,Nevada,Hillary Schieve,,I,West,3463.25,Democratic caucus,Medium,Small
+"Chesapeake, Virginia",255332,777730000,M,2008,2012,Council-manager,Yes,No,Chesapeake,Virginia,Rick West,,R,South,3045.96,Republican,Medium,Small
+"Gilbert, Arizona",287285,1181170000,M,2020,2024,Council-manager,No,No,Gilbert,Arizona,Scott Anderson,,NP,West,4111.49,Democratic caucus,Medium,Medium
+"Baton Rouge, Louisiana",222795,814450000,M,2025,2029,Strong mayor,No,No,Baton Rouge,Louisiana,Sid Edwards,,R,South,3655.6,Republican,Small,Small
+"Irving, Texas",257076,836150000,M,2026,2030,Council-manager,No,Yes,Irving,Texas,Al Zapanta,,NP,South,3252.54,Democratic caucus,Medium,Small
+"Scottsdale, Arizona",243006,1023420000,F,2024,2028,Council-manager,Yes,No,Scottsdale,Arizona,Lisa Borowsky,,R,West,4211.5,Republican,Small,Medium
+"North Las Vegas, Nevada",296653,1066230000,F,2013,2017,Council-manager,Yes,Yes,North Las Vegas,Nevada,Pamela Goynes-Brown,,D,West,3594.2,Democratic caucus,Medium,Medium
+"Fremont, California",226442,702590000,M,2024,2028,Council-manager,No,No,Fremont,California,Raj Salwan,,D,West,3102.74,Democratic caucus,Small,Small
+"Boise, Idaho",238429,744850000,F,2020,2024,Strong mayor,Yes,Yes,Boise,Idaho,Lauren McLean,,D,West,3123.99,Democratic caucus,Small,Small
+"San Bernardino, California",222044,982890000,F,2022,2026,Hybrid,No,Yes,San Bernardino,California,Helen Tran,,D,West,4426.56,Democratic caucus,Small,Small
+"Birmingham, Alabama",195893,705670000,M,2017,2021,Strong mayor,No,Yes,Birmingham,Alabama,Randall Woodfin,,D,South,3602.32,Democratic caucus,Small,Small
+"Richmond, Virginia",237257,957110000,M,2025,2029,Strong mayor,Yes,Yes,Richmond,Virginia,Danny Avula,,D,South,4034.06,Democratic caucus,Small,Small
+"Washington, District of Columbia",693645,3068290000,F,2023,2027,Strong mayor,Yes,No,Washington,District of Columbia,Muriel Bowser,1972,D,South,4423.43,Democratic caucus,Large,Large
+"Port St. Lucie, Florida",268062,1200210000,F,2022,2026,Council-manager,No,Yes,Port St. Lucie,Florida,Shannon Martin,,NP,South,4477.36,Democratic caucus,Medium,Medium
+"Frisco, Texas",236955,927720000,M,2026,2030,Council-manager,Yes,No,Frisco,Texas,Mark Hill,,NP,South,3915.17,Democratic caucus,Small,Small
+"Cape Coral, Florida",236264,974840000,M,2022,2026,Council-manager,No,Yes,Cape Coral,Florida,John Gunter Jr.,,NP,South,4126.06,Democratic caucus,Small,Small
+"McKinney, Texas",236001,969640000,M,2025,2029,Council-manager,No,Yes,McKinney,Texas,Bill Cox,,NP,South,4108.63,Democratic caucus,Small,Small
+"Huntsville, Alabama",233627,1033060000,M,2024,2028,Strong mayor,No,Yes,Huntsville,Alabama,Tommy Battle,,R,South,4421.83,Republican,Small,Medium
+"Spokane, Washington",230783,905320000,F,2024,2028,Strong mayor,No,No,Spokane,Washington,Lisa Brown,,D,West,3922.82,Democratic caucus,Small,Small
+"Tacoma, Washington",229816,692190000,M,2026,2030,Council-manager,No,Yes,Tacoma,Washington,Anders Ibsen,,D,West,3011.93,Democratic caucus,Small,Small
+"Santa Clarita, California",228430,711750000,F,2026,2030,Council-manager,Yes,Yes,Santa Clarita,California,Laurene Weste,,NP,West,3115.83,Democratic caucus,Small,Small
+"Fontana, California",221223,966850000,F,2022,2026,Council-manager,No,No,Fontana,California,Acquanetta Warren,,NP,West,4370.48,Democratic caucus,Small,Small
+"Modesto, California",219652,676480000,F,2024,2028,Council-manager,No,No,Modesto,California,Sue Zwahlen,,NP,West,3079.78,Democratic caucus,Small,Small
+"Salt Lake City, Utah",218428,805500000,F,2024,2028,Strong mayor,Yes,Yes,Salt Lake City,Utah,Erin Mendenhall,1980,D,West,3687.71,Democratic caucus,Small,Small
+"Moreno Valley, California",214263,688950000,M,2022,2026,Council-manager,No,No,Moreno Valley,California,Ulises Cabrera,,NP,West,3215.44,Democratic caucus,Small,Small
+"Worcester, Massachusetts",213862,852650000,M,2026,2030,Council-manager,Yes,Yes,Worcester,Massachusetts,Joseph Petty,,D,Northeast,3986.92,Democratic caucus,Small,Small
+"Sioux Falls, South Dakota",213748,738100000,F,2026,2030,Strong mayor,No,Yes,Sioux Falls,South Dakota,Christine Erickson,1978,R,Midwest,3453.13,Republican,Small,Small
+"Yonkers, New York",212603,911740000,M,2024,2028,Strong mayor,Yes,Yes,Yonkers,New York,Mike Spano,,D,Northeast,4288.46,Democratic caucus,Small,Small
+"Des Moines, Iowa",212086,722620000,F,2024,2028,Council-manager,No,No,Des Moines,Iowa,Connie Boesen,,NP,Midwest,3407.2,Democratic caucus,Small,Small
+"Grand Prairie, Texas",209434,839270000,M,2025,2029,Council-manager,No,Yes,Grand Prairie,Texas,Ron Jensen,,NP,South,4007.32,Democratic caucus,Small,Small
+"Fayetteville, North Carolina",209120,900400000,M,2025,2029,Council-manager,No,No,Fayetteville,North Carolina,Mitch Colvin,,D,South,4305.66,Democratic caucus,Small,Small
+"Little Rock, Arkansas",206427,673330000,M,2023,2027,Hybrid,No,Yes,Little Rock,Arkansas,Frank Scott Jr.,1983,D,South,3261.83,Democratic caucus,Small,Small
+"Rochester, New York",206108,724710000,M,2026,2030,Strong mayor,No,No,Rochester,New York,Malik Evans,,D,Northeast,3516.17,Democratic caucus,Small,Small
+"Amarillo, Texas",205130,705810000,M,2023,2027,Council-manager,Yes,No,Amarillo,Texas,Cole Stanley,1978,NP,South,3440.79,Democratic caucus,Small,Small
+"Tallahassee, Florida",204902,750170000,M,2022,2026,Council-manager,Yes,No,Tallahassee,Florida,John Dailey,1972,NP,South,3661.12,Democratic caucus,Small,Small
+"Overland Park, Kansas",203677,785730000,M,2026,2030,Council-manager,No,No,Overland Park,Kansas,Curt Skoog,,D,Midwest,3857.73,Democratic caucus,Small,Small
+"Columbus, Georgia",202171,879580000,M,2023,2027,Hybrid,Yes,No,Columbus,Georgia,Skip Henderson,,NP,South,4350.67,Democratic caucus,Small,Small
+"Knoxville, Tennessee",202021,623730000,F,2023,2027,Strong mayor,No,Yes,Knoxville,Tennessee,Indya Kincannon,1971,D,South,3087.45,Democratic caucus,Small,Small
+"Augusta, Georgia",201999,842460000,M,2026,2030,Hybrid,Yes,Yes,Augusta,Georgia,Steven Kendrick,,NP,South,4170.61,Democratic caucus,Small,Small
+"Grand Rapids, Michigan",201183,774340000,M,2025,2029,Council-manager,Yes,No,Grand Rapids,Michigan,David LaGrand,1966,D,Midwest,3848.93,Democratic caucus,Small,Small
+"Peoria, Arizona",200881,767740000,M,2023,2027,Council-manager,Yes,No,Peoria,Arizona,Jason Beck,,NP,West,3821.86,Democratic caucus,Small,Small
+"Mobile, Alabama",200824,856940000,M,2025,2029,Strong mayor,No,No,Mobile,Alabama,Spiro Cheriogotis,,R,South,4267.12,Republican,Small,Small
+"Vancouver, Washington",199698,636510000,F,2026,2030,Council-manager,Yes,No,Vancouver,Washington,Anne McEnerny-Ogle,1954,NP,West,3187.36,Democratic caucus,Small,Small
+"Oxnard, California",199651,748300000,M,2024,2028,Council-manager,No,No,Oxnard,California,Luis McArthur,,NP,West,3748.04,Democratic caucus,Small,Small
+"Providence, Rhode Island",195310,807370000,M,2023,2027,Strong mayor,Yes,Yes,Providence,Rhode Island,Brett Smiley,,D,Northeast,4133.79,Democratic caucus,Small,Small
+"Montgomery, Alabama",195300,797520000,M,2023,2027,Strong mayor,Yes,No,Montgomery,Alabama,Steven Reed,,D,South,4083.56,Democratic caucus,Small,Small
+"Chattanooga, Tennessee",194144,729980000,M,2025,2029,Strong mayor,No,Yes,Chattanooga,Tennessee,Tim Kelly,1967,I,South,3759.99,Democratic caucus,Small,Small
+"Brownsville, Texas",192957,637120000,M,2023,2027,Council-manager,No,No,Brownsville,Texas,John Cowen,,NP,South,3301.88,Democratic caucus,Small,Small
+"Huntington Beach, California",191451,830520000,M,2026,2030,Council-manager,No,Yes,Huntington Beach,California,Casey McKeon,,R,West,4338.03,Republican,Small,Small
+"Tempe, Arizona",190571,652340000,M,2025,2029,Council-manager,Yes,No,Tempe,Arizona,Corey Woods,,D,West,3423.08,Democratic caucus,Small,Small
+"Akron, Ohio",189691,584440000,M,2024,2028,Strong mayor,Yes,Yes,Akron,Ohio,Shammas Malik,,D,Midwest,3081.01,Democratic caucus,Small,Small
+"Clarksville, Tennessee",188829,655030000,M,2023,2027,Strong mayor,No,Yes,Clarksville,Tennessee,Joe Pitts,1958,D,South,3468.91,Democratic caucus,Small,Small
+"Fort Lauderdale, Florida",188677,735510000,M,2024,2028,Council-manager,No,No,Fort Lauderdale,Florida,Dean Trantalis,,D,South,3898.25,Democratic caucus,Small,Small
+"Glendale, California",187160,657720000,M,2026,2030,Council-manager,Yes,No,Glendale,California,Ara Najarian,,NP,West,3514.21,Democratic caucus,Small,Small
+"Ontario, California",187013,644500000,M,2022,2026,Council-manager,Yes,Yes,Ontario,California,Paul Leon,,NP,West,3446.28,Democratic caucus,Small,Small
+"Elk Grove, California",185007,671860000,F,2024,2028,Council-manager,No,Yes,Elk Grove,California,Bobbie Singh-Allen,,NP,West,3631.54,Democratic caucus,Small,Small
+"Cary, North Carolina",183582,689580000,M,2023,2027,Council-manager,No,No,Cary,North Carolina,Harold Weinbrecht,,NP,South,3756.25,Democratic caucus,Small,Small
+"Newport News, Virginia",183230,647560000,M,2025,2029,Council-manager,Yes,Yes,Newport News,Virginia,Phillip Jones,,NP,South,3534.14,Democratic caucus,Small,Small
+"Salem, Oregon",181779,552490000,F,2025,2029,Council-manager,No,No,Salem,Oregon,Julie Hoy,,R,West,3039.35,Republican,Small,Small
+"Aurora, Illinois",181505,627740000,M,2025,2029,Strong mayor,Yes,Yes,Aurora,Illinois,John Laesch,1974,D,Midwest,3458.53,Democratic caucus,Small,Small
+"Santa Rosa, California",179437,716110000,M,2025,2029,Council-manager,Yes,No,Santa Rosa,California,Mark Stapp,,NP,West,3990.87,Democratic caucus,Small,Small
+"Eugene, Oregon",178618,729570000,F,2025,2029,Council-manager,Yes,No,Eugene,Oregon,Kaarin Knudson,,NP,West,4084.53,Democratic caucus,Small,Small
+"Rancho Cucamonga, California",177856,631050000,M,2022,2026,Council-manager,Yes,Yes,Rancho Cucamonga,California,Dennis Michael,,NP,West,3548.1,Democratic caucus,Small,Small
+"Pembroke Pines, Florida",176714,568540000,M,2024,2028,Council-manager,No,Yes,Pembroke Pines,Florida,Angelo Castillo,,D,South,3217.29,Democratic caucus,Small,Small
+"Shreveport, Louisiana",175902,651580000,M,2022,2026,Strong mayor,Yes,Yes,Shreveport,Louisiana,Tom Arceneaux,1951,R,South,3704.22,Republican,Small,Small
+"Surprise, Arizona",175304,659140000,M,2025,2029,Council-manager,Yes,No,Surprise,Arizona,Kevin Sartor,,NP,West,3759.98,Democratic caucus,Small,Small
+"Fort Collins, Colorado",171500,520080000,F,2025,2029,Council-manager,Yes,Yes,Fort Collins,Colorado,Emily Francis,,NP,West,3032.54,Democratic caucus,Small,Small
+"Murfreesboro, Tennessee",171178,547150000,M,2022,2026,Council-manager,Yes,No,Murfreesboro,Tennessee,Shane McFarland,1974,R,South,3196.38,Republican,Small,Small
+"Oceanside, California",170483,556270000,F,2024,2028,Council-manager,Yes,Yes,Oceanside,California,Esther Sanchez,,NP,West,3262.91,Democratic caucus,Small,Small
+"Garden Grove, California",170455,682530000,F,2024,2028,Council-manager,Yes,Yes,Garden Grove,California,Stephanie Klopfenstein,,NP,West,4004.17,Democratic caucus,Small,Small
+"Lancaster, California",170084,529560000,M,2024,2028,Council-manager,No,No,Lancaster,California,R. Rex Parris,1952,R,West,3113.52,Republican,Small,Small
+"Springfield, Missouri",169847,716450000,M,2025,2029,Council-manager,No,No,Springfield,Missouri,Jeff Schrag,,NP,Midwest,4218.21,Democratic caucus,Small,Small
+"Denton, Texas",169431,499020000,M,2026,2030,Council-manager,Yes,Yes,Denton,Texas,Chris Watts,,NP,South,2945.27,Democratic caucus,Small,Tiny
+"Roseville, California",167302,672000000,F,2024,2028,Council-manager,Yes,No,Roseville,California,Krista Bernasconi,,NP,West,4016.69,Democratic caucus,Small,Small
+"Killeen, Texas",161883,628220000,M,2026,2030,Council-manager,Yes,No,Killeen,Texas,Joseph Solomon,,NP,South,3880.7,Democratic caucus,Small,Small
+"Palmdale, California",161845,521530000,M,2026,2030,Council-manager,No,Yes,Palmdale,California,Eric Ohlsen,,NP,West,3222.4,Democratic caucus,Small,Small
+"Paterson, New Jersey",161793,521540000,M,2026,2030,Strong mayor,No,No,Paterson,New Jersey,Andre Sayegh,,D,Northeast,3223.5,Democratic caucus,Small,Small
+"Corona, California",161734,541850000,M,2025,2029,Council-manager,No,No,Corona,California,Wes Speake,,NP,West,3350.25,Democratic caucus,Small,Small
+"Alexandria, Virginia",160662,617830000,F,2025,2029,Council-manager,Yes,Yes,Alexandria,Virginia,Alyia Gaskins,1989,D,South,3845.53,Democratic caucus,Small,Small
+"Charleston, South Carolina",159423,470940000,M,2024,2028,Strong mayor,Yes,No,Charleston,South Carolina,William Cogswell,1975,R,South,2954.03,Republican,Small,Tiny
+"Salinas, California",159134,553000000,M,2024,2028,Council-manager,No,No,Salinas,California,Dennis Donohue,,NP,West,3475.06,Democratic caucus,Small,Small
+"Kansas City, Kansas",157805,564400000,F,2026,2030,Strong mayor,No,Yes,Kansas City,Kansas,Christal Watson,,NP,Midwest,3576.57,Democratic caucus,Small,Small
+"Macon, Georgia",157556,640370000,M,2025,2029,Strong mayor,Yes,No,Macon,Georgia,Lester Miller,,R,South,4064.4,Republican,Small,Small
+"Hayward, California",157113,452570000,M,2022,2026,Council-manager,No,Yes,Hayward,California,Mark Salinas,,NP,West,2880.54,Democratic caucus,Small,Tiny
+"Hollywood, Florida",157019,650860000,M,2024,2028,Council-manager,No,No,Hollywood,Florida,Josh Levy,,NP,South,4145.1,Democratic caucus,Small,Small
+"Lakewood, Colorado",156927,614830000,F,2023,2027,Council-manager,Yes,No,Lakewood,Colorado,Wendi Strom,,NP,West,3917.94,Democratic caucus,Small,Small
+"Sunnyvale, California",156577,524740000,M,2024,2028,Council-manager,Yes,No,Sunnyvale,California,Larry Klein,,NP,West,3351.32,Democratic caucus,Small,Small
+"Springfield, Massachusetts",154702,542090000,M,2024,2028,Strong mayor,Yes,Yes,Springfield,Massachusetts,Domenic Sarno,1963,D,Northeast,3504.09,Democratic caucus,Small,Small
+"Bellevue, Washington",154193,596420000,M,2024,2028,Council-manager,Yes,No,Bellevue,Washington,Mo Malakoutian,,NP,West,3868.01,Democratic caucus,Small,Small
+"Naperville, Illinois",153114,506240000,M,2023,2027,Council-manager,No,No,Naperville,Illinois,Scott Wehrli,,R,Midwest,3306.29,Republican,Small,Small
+"Bridgeport, Connecticut",152273,521530000,M,2024,2028,Strong mayor,Yes,Yes,Bridgeport,Connecticut,Joseph Ganim,1959,D,Northeast,3424.97,Democratic caucus,Small,Small
+"Joliet, Illinois",152241,448650000,M,2023,2027,Council-manager,Yes,No,Joliet,Illinois,Terry D'Arcy,,I,Midwest,2946.97,Democratic caucus,Small,Tiny
+"Mesquite, Texas",150693,490310000,M,2024,2028,Council-manager,No,Yes,Mesquite,Texas,Daniel Aleman Jr.,,NP,South,3253.7,Democratic caucus,Small,Tiny
+"McAllen, Texas",150640,467540000,M,2021,2025,Council-manager,Yes,No,McAllen,Texas,Javier Villalobos,,R,South,3103.69,Republican,Small,Tiny
+"Olathe, Kansas",150025,482920000,M,2025,2029,Weak mayor,Yes,No,Olathe,Kansas,John Bacon,,NP,Midwest,3218.93,Democratic caucus,Small,Tiny
+"Savannah, Georgia",149440,579950000,M,2024,2028,Council-manager,Yes,Yes,Savannah,Georgia,Van Johnson,,D,South,3880.82,Democratic caucus,Tiny,Small
+"Gainesville, Florida",148671,583930000,M,2023,2027,Council-manager,Yes,No,Gainesville,Florida,Harvey Ward,,NP,South,3927.67,Democratic caucus,Tiny,Small
+"Pasadena, Texas",148539,537210000,M,2024,2028,Strong mayor,No,Yes,Pasadena,Texas,Thomas Schoenbein,,NP,South,3616.63,Democratic caucus,Tiny,Small
+"Palm Bay, Florida",148092,570140000,M,2022,2026,Council-manager,Yes,Yes,Palm Bay,Florida,Rob Medina,,NP,South,3849.9,Democratic caucus,Tiny,Small
+"Pomona, California",147807,584220000,M,2022,2026,Council-manager,No,No,Pomona,California,Tim Sandoval,,NP,West,3952.59,Democratic caucus,Tiny,Small
+"Waco, Texas",147788,591030000,M,2026,2030,Council-manager,No,Yes,Waco,Texas,Jim Holmes,,NP,South,3999.17,Democratic caucus,Tiny,Small
+"Thornton, Colorado",147766,548010000,F,2023,2027,Council-manager,Yes,Yes,Thornton,Colorado,Jan Kulmann,,R,West,3708.63,Republican,Tiny,Small
+"Midland, Texas",147615,491640000,F,2023,2027,Council-manager,Yes,No,Midland,Texas,Lori Blong,,NP,South,3330.56,Democratic caucus,Tiny,Tiny
+"Rockford, Illinois",147384,471810000,M,2025,2029,Strong mayor,No,No,Rockford,Illinois,Tom McNamara,1983,D,Midwest,3201.23,Democratic caucus,Tiny,Tiny
+"Columbia, South Carolina",147035,526640000,M,2022,2026,Council-manager,Yes,Yes,Columbia,South Carolina,Daniel Rickenmann,,R,South,3581.73,Republican,Tiny,Small
+"Visalia, California",146541,418100000,M,2024,2028,Council-manager,No,No,Visalia,California,Brett Taylor,,NP,West,2853.13,Democratic caucus,Tiny,Tiny
+"Escondido, California",146030,536860000,M,2022,2026,Council-manager,No,Yes,Escondido,California,Dane White,,R,West,3676.37,Republican,Tiny,Small
+"Syracuse, New York",144896,426310000,F,2026,2030,Strong mayor,No,No,Syracuse,New York,Sharon Owens,,D,Northeast,2942.18,Democratic caucus,Tiny,Tiny
+"Lakewood, New Jersey",143765,487650000,M,2026,2030,Commission,Yes,Yes,Lakewood,New Jersey,Raymond Coles,,D,Northeast,3391.99,Democratic caucus,Tiny,Tiny
+"Meridian, Idaho",142988,550060000,M,2023,2027,Strong mayor,No,No,Meridian,Idaho,Robert Simison,,NP,West,3846.9,Democratic caucus,Tiny,Small
+"Miramar, Florida",142570,423310000,M,2023,2027,Council-manager,No,No,Miramar,Florida,Wayne Messam,,D,South,2969.14,Democratic caucus,Tiny,Tiny
+"Elizabeth, New Jersey",141675,425230000,M,2025,2029,Strong mayor,No,Yes,Elizabeth,New Jersey,J. Christian Bollwage,,D,Northeast,3001.45,Democratic caucus,Tiny,Tiny
+"Victorville, California",141395,490220000,F,2020,2024,Council-manager,No,No,Victorville,California,Elizabeth Becerra,,NP,West,3467.03,Democratic caucus,Tiny,Tiny
+"Round Rock, Texas",141282,420400000,M,2026,2030,Council-manager,No,Yes,Round Rock,Texas,Craig Morgan,,R,South,2975.61,Republican,Tiny,Tiny
+"Jackson, Mississippi",141196,526740000,M,2025,2029,Strong mayor,Yes,Yes,Jackson,Mississippi,John Horhn,1955,D,South,3730.56,Democratic caucus,Tiny,Small
+"Stamford, Connecticut",139535,519550000,F,2025,2029,Strong mayor,Yes,No,Stamford,Connecticut,Caroline Simmons,1986,D,Northeast,3723.44,Democratic caucus,Tiny,Small
+"Lewisville, Texas",139006,429260000,M,2024,2028,Council-manager,Yes,Yes,Lewisville,Texas,TJ Gilmore,,NP,South,3088.07,Democratic caucus,Tiny,Tiny
+"Coral Springs, Florida",138783,497750000,M,2023,2027,Council-manager,No,No,Coral Springs,Florida,Scott Brook,,NP,South,3586.53,Democratic caucus,Tiny,Tiny
+"New Haven, Connecticut",138774,486010000,M,2026,2030,Strong mayor,Yes,Yes,New Haven,Connecticut,Justin Elicker,1975,D,Northeast,3502.17,Democratic caucus,Tiny,Tiny
+"Fullerton, California",138675,574310000,M,2026,2030,Council-manager,Yes,No,Fullerton,California,Fred Jung,1973,NP,West,4141.41,Democratic caucus,Tiny,Small
+"Torrance, California",138391,419820000,M,2022,2026,Council-manager,Yes,Yes,Torrance,California,George Chen,,NP,West,3033.58,Democratic caucus,Tiny,Tiny
+"Orange, California",138365,464760000,M,2024,2028,Council-manager,No,Yes,Orange,California,Dan Slater,,NP,West,3358.94,Democratic caucus,Tiny,Tiny
+"Cedar Rapids, Iowa",137935,401050000,F,2025,2029,Weak mayor,Yes,No,Cedar Rapids,Iowa,Tiffany O'Donnell,,R,Midwest,2907.53,Republican,Tiny,Tiny
+"West Valley City, Utah",137491,458890000,F,2026,2030,Council-manager,Yes,No,West Valley City,Utah,Karen Lang,,NP,West,3337.6,Democratic caucus,Tiny,Tiny
+"Hampton, Virginia",137315,390690000,M,2025,2029,Hybrid,No,Yes,Hampton,Virginia,Jimmy Gray,,D,South,2845.21,Democratic caucus,Tiny,Tiny
+"Warren, Michigan",137138,557640000,F,2023,2027,Strong mayor,Yes,Yes,Warren,Michigan,Lori Stone,1980,D,Midwest,4066.27,Democratic caucus,Tiny,Small
+"Dayton, Ohio",136688,458340000,F,2026,2030,Council-manager,No,No,Dayton,Ohio,Shenise Turner-Sloss,1981,D,Midwest,3353.18,Democratic caucus,Tiny,Tiny
+"Fargo, North Dakota",136275,491260000,M,2026,2030,Commission,Yes,No,Fargo,North Dakota,Josh Boschee,1982,D,Midwest,3604.92,Democratic caucus,Tiny,Tiny
+"Centennial, Colorado",108658,309660000,F,2024,2028,Council-manager,Yes,Yes,Centennial,Colorado,Stephanie Piko,,NP,West,2849.86,Democratic caucus,Tiny,Tiny
+"Downey, California",108468,350130000,F,2026,2030,Council-manager,Yes,No,Downey,California,Claudia Frometa,,NP,West,3227.96,Democratic caucus,Tiny,Tiny
+"Spokane Valley, Washington",108405,341110000,F,2026,2030,Council-manager,Yes,No,Spokane Valley,Washington,Pam Haley,,NP,West,3146.63,Democratic caucus,Tiny,Tiny
+"Sugar Land, Texas",107726,407830000,F,2025,2029,Council-manager,No,Yes,Sugar Land,Texas,Carol McCutcheon,,NP,South,3785.81,Democratic caucus,Tiny,Tiny
+"Lee's Summit, Missouri",107514,376580000,M,2026,2030,Council-manager,Yes,No,Lee's Summit,Missouri,Beto Lopez,,NP,Midwest,3502.61,Democratic caucus,Tiny,Tiny
+"Bend, Oregon",107342,344520000,F,2023,2027,Council-manager,Yes,No,Bend,Oregon,Melanie Kebler,,NP,West,3209.55,Democratic caucus,Tiny,Tiny
+"Jurupa Valley, California",107311,323420000,M,2025,2029,Council-manager,No,No,Jurupa Valley,California,Brian Berkson,,NP,West,3013.86,Democratic caucus,Tiny,Tiny
+"Georgetown, Texas",106907,379650000,M,2023,2027,Council-manager,No,Yes,Georgetown,Texas,Josh Schroeder,,NP,South,3551.22,Democratic caucus,Tiny,Tiny
+"Green Bay, Wisconsin",106675,302460000,M,2023,2027,Strong mayor,No,Yes,Green Bay,Wisconsin,Eric Genrich,1979,D,Midwest,2835.34,Democratic caucus,Tiny,Tiny
+"Fayetteville, Arkansas",106623,351720000,F,2025,2029,Strong mayor,Yes,No,Fayetteville,Arkansas,Molly Rawn,1982,D,South,3298.73,Democratic caucus,Tiny,Tiny
+"Rialto, California",106554,403260000,M,2024,2028,Council-manager,No,Yes,Rialto,California,Joe Baca,,NP,West,3784.56,Democratic caucus,Tiny,Tiny
+"Brockton, Massachusetts",106134,401590000,M,2026,2030,Strong mayor,No,No,Brockton,Massachusetts,Robert Sullivan,,D,Northeast,3783.8,Democratic caucus,Tiny,Tiny
+"Boulder, Colorado",105689,372530000,M,2026,2030,Hybrid,No,No,Boulder,Colorado,Aaron Brockett,,D,West,3524.78,Democratic caucus,Tiny,Tiny
+"Carmel, Indiana",105634,334310000,F,2024,2028,Strong mayor,No,Yes,Carmel,Indiana,Sue Finkam,,R,Midwest,3164.8,Republican,Tiny,Tiny
+"Dearborn, Michigan",105611,369570000,M,2026,2030,Strong mayor,No,No,Dearborn,Michigan,Abdullah Hammoud,1990,D,Midwest,3499.35,Democratic caucus,Tiny,Tiny
+"West Covina, California",105301,389980000,F,2026,2030,Council-manager,Yes,No,West Covina,California,Letty Lopez-Viado,,NP,West,3703.48,Democratic caucus,Tiny,Tiny
+"Yuma, Arizona",105227,388450000,M,2023,2027,Council-manager,Yes,No,Yuma,Arizona,Douglas Nicholls,,NP,West,3691.54,Democratic caucus,Tiny,Tiny
+"Chico, California",105081,368700000,F,2024,2028,Council-manager,Yes,No,Chico,California,Kacey Reynolds,,NP,West,3508.72,Democratic caucus,Tiny,Tiny
+"El Monte, California",105075,360080000,F,2024,2028,Council-manager,No,Yes,El Monte,California,Jessica Ancona,,NP,West,3426.89,Democratic caucus,Tiny,Tiny
+"Sandy Springs, Georgia",105013,407900000,M,2026,2030,Council-manager,Yes,No,Sandy Springs,Georgia,Rusty Paul,1952,R,South,3884.28,Republican,Tiny,Tiny
+"Renton, Washington",104975,308040000,M,2024,2028,Strong mayor,No,Yes,Renton,Washington,Armondo Pavone,,NP,West,2934.41,Democratic caucus,Tiny,Tiny
+"Fishers, Indiana",104812,372010000,M,2024,2028,Strong mayor,Yes,Yes,Fishers,Indiana,Scott Fadness,,R,Midwest,3549.31,Republican,Tiny,Tiny
+"Woodbridge, New Jersey",104802,364520000,M,2024,2028,Strong mayor,Yes,Yes,Woodbridge,New Jersey,John McCormac,1958,D,Northeast,3478.18,Democratic caucus,Tiny,Tiny
+"Suffolk, Virginia",104699,295760000,M,2024,2028,Council-manager,Yes,No,Suffolk,Virginia,Michael Duman,,NP,South,2824.86,Democratic caucus,Tiny,Tiny
+"Lynn, Massachusetts",104236,295190000,M,2022,2026,Strong mayor,Yes,No,Lynn,Massachusetts,Jared Nicholson,,D,Northeast,2831.94,Democratic caucus,Tiny,Tiny
+"Vacaville, California",103850,397650000,M,2022,2026,Council-manager,No,Yes,Vacaville,California,John Carli,,NP,West,3829.08,Democratic caucus,Tiny,Tiny
+"San Mateo, California",103337,297260000,M,2025,2029,Council-manager,Yes,No,San Mateo,California,Adam Loraine,,NP,West,2876.61,Democratic caucus,Tiny,Tiny
+"South Bend, Indiana",103201,342230000,M,2024,2028,Strong mayor,Yes,No,South Bend,Indiana,James Mueller,,D,Midwest,3316.15,Democratic caucus,Tiny,Tiny
+"Quincy, Massachusetts",103173,402940000,M,2026,2030,Strong mayor,Yes,No,Quincy,Massachusetts,Thomas Koch,1963,D,Northeast,3905.48,Democratic caucus,Tiny,Tiny
+"Burbank, California",102988,360480000,F,2025,2029,Council-manager,Yes,Yes,Burbank,California,Tamala Takahashi,,NP,West,3500.21,Democratic caucus,Tiny,Tiny
+"Hesperia, California",102605,288860000,F,2025,2029,Council-manager,Yes,No,Hesperia,California,Allison Lee,,NP,West,2815.26,Democratic caucus,Tiny,Tiny
+"Wichita Falls, Texas",101951,317450000,M,2023,2027,Council-manager,Yes,Yes,Wichita Falls,Texas,Tim Short,,R,South,3113.75,Republican,Tiny,Tiny
+"Tracy, California",101901,402440000,M,2024,2028,Council-manager,Yes,Yes,Tracy,California,Dan Arriola,,NP,West,3949.32,Democratic caucus,Tiny,Tiny
+"New Bedford, Massachusetts",101834,325530000,M,2024,2028,Strong mayor,No,No,New Bedford,Massachusetts,Jonathan Mitchell,,D,Northeast,3196.67,Democratic caucus,Tiny,Tiny
